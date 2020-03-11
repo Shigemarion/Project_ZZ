@@ -1,2 +1,2 @@
 # Project_ZZ
-Now thinking about...
+i will  write some codes in vbs, VB, Kotlin, C# and so on. (i'm a Japanese.) 
